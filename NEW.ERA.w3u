@@ -58,7 +58,8 @@
 [
 { "name": "ONE TORO", 
 "image": "https://i.blogs.es/0e59f5/onetoro-2/1200_900.jpeg", 
-"url": "acestream://41d6e34af2470ce93567d6dfb43afa861841fa27" 
+"url": "acestream://41d6e34af2470ce93567d6dfb43afa861841fa27",
+"embed":"true"
 }
 ]
 }
