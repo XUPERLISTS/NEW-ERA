@@ -57,21 +57,7 @@
 "image": "https://i.postimg.cc/3wkknRzQ/logo4-12-15422.png",
 "url":"https://newwacex.pages.dev/cod_sistema.db",
 "embed": "true"
-},
-{
-"name": "ONE TORO",
-"image": "https://i.blogs.es/0e59f5/onetoro-2/1200_900.jpeg",
-"imageScale": "center",
-"stations":
-[
-{ "name": "ONE TORO", 
-"image": "https://i.blogs.es/0e59f5/onetoro-2/1200_900.jpeg", 
-"url": "acestream://41d6e34af2470ce93567d6dfb43afa861841fa27",
-"embed":""
 }
-]
-}
-
 
 ]
 }
